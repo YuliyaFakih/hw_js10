@@ -1,0 +1,12 @@
+body {
+    background: white;
+    text-align: center;
+}
+
+img {
+    margin: auto;
+}
+
+#lamp_on {
+    display: none;
+}
